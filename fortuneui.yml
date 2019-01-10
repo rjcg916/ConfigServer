@@ -1,5 +1,5 @@
 fortuneService:
   scheme: http
-  address: localhost:58497
+  address: fortuneservice-thankful-kob.cfapps.io
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
